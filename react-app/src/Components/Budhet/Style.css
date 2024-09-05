@@ -1,0 +1,25 @@
+.Income {
+    font-size: large;
+    color: green; /* Цвет текста для доходов */
+    font-weight: bold; /* Жирный шрифт */
+}
+
+.Expense {
+    font-size: large;
+    color: red; /* Цвет текста для расходов */
+    font-weight: bold; /* Жирный шрифт */
+}
+
+.CategoryIncome {
+    padding: 10px;
+    background-color: lightgreen; /* Фоновый цвет для категорий доходов */
+    border: 1px solid darkgreen; /* Обводка */
+    border-radius: 5px; /* Закругление углов */
+}
+
+.CategoryExpenses {
+    padding: 10px;
+    background-color: lightcoral; /* Фоновый цвет для категорий расходов */
+    border: 1px solid darkred; /* Обводка */
+    border-radius: 5px; /* Закругление углов */
+}
